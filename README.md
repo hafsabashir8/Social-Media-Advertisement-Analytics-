@@ -1,1 +1,2 @@
-# Social-Media-Advertisement-Analytics-
+# Social-Media-Advertisement-Analytics-Dashboard
+My work as a data analyst for a digital marketing agency specializing in social media advertising. The agency manages campaigns across various social media platforms like Facebook, Instagram, and Twitter for different clients. My task is to analyze the performance of these social media advertisements using historical data and present actionable insights to optimize future campaigns. 
